@@ -1,0 +1,36 @@
+Angenda of Today's Discussion
+================================
+-> Overview of VBA
+-> Record VBA Macro
+-> Create custom Sub/function  
+-> variable
+-> condition 
+
+-> Overview of VBA
+====================
+what is VBA?
+	visual basic for application (ms word, ms excel, ms access etc.)
+
+Difference between VB,VB.Net, VBS, VBA:
+	VB 	: visual basic which programing langauge
+	VB.Net  : is programing language for applicaiton development:windows,web
+	VBS     : visual basic scripting  (QTP/UTP)
+	VBA 	: for application (ms word, ms excel, ms access etc.)
+	
+How to enable VBA/Macro/Developer tab in excel?
+		
+-> Record VBA Macro
+======================
+Macro : is set of recorded instructions/command/steps which is reusable 
+
+Alt+F11 : to open vba editor 
+
+
+
+-> Create custom Sub/function  
+==================================
+
+ 
+
+
+	
