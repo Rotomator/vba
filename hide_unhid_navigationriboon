@@ -1,0 +1,30 @@
+Option Compare Database
+
+Private Sub Command0_Click()
+
+'MsgBox "hide"
+
+'select the navigation pange
+Call DoCmd.NavigateTo("acNavigationCategoryObjectType")
+'hide the selected object
+Call DoCmd.RunCommand(acCmdWindowHide)
+
+'hide all menu
+'DoCmd.ShowToolbar "Ribbon", acToolbarNo
+
+    
+
+End Sub
+
+Private Sub Command1_Click()
+
+'MsgBox "show"
+Call DoCmd.SelectObject(acTable, , True)
+
+'DoCmd.ShowToolbar "Ribbon", acToolbarYes
+
+
+
+
+
+End Sub
